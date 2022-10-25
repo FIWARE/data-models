@@ -23,7 +23,7 @@
 		"url": "https://github.com/Fiware/dataModels"
 	},
 	"dependencies": {
-		"nconf": "^0.10.0",
+		"nconf": "^0.11.4",
 		"request": "^2.81.0",
 		"glob": "^7.0.3",
 		"ajv": "^6.10.0",
