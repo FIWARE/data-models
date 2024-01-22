@@ -39,7 +39,7 @@
         "C0": "https://uri.fiware.org/ns/data-models#C0",
         "C1": "https://uri.fiware.org/ns/data-models#C1",
         "C2": "https://uri.fiware.org/ns/data-models#C2",
-        "CCS/SAE": "https://uri.fiware.org/ns/data-models#CCS/SAE",
+        "CCS-SAE": "https://uri.fiware.org/ns/data-models#CCS-SAE",
         "CHAdeMO": "https://uri.fiware.org/ns/data-models#CHAdeMO",
         "COD": "http://purl.org/goodrelations/v1#COD",
         "Caravan_Mains_Socket": "https://uri.fiware.org/ns/data-models#Caravan_Mains_Socket",
@@ -267,7 +267,7 @@
         "bikeParking": "https://uri.fiware.org/ns/data-models#bikeParking",
         "bimonthly": "https://uri.fiware.org/ns/data-models#bimonthly",
         "binTrolley": "https://uri.fiware.org/ns/data-models#binTrolley",
-        "biodiesel ethanol": "https://uri.fiware.org/ns/data-models#biodiesel ethanol",
+        "biodiesel-ethanol": "https://uri.fiware.org/ns/data-models#biodiesel-ethanol",
         "birthdate": {
             "@id": "https://uri.fiware.org/ns/data-models#birthdate",
             "@type": "https://uri.etsi.org/ngsi-ld/DateTime"
@@ -395,7 +395,7 @@
         "columnManufacturerName": "https://uri.fiware.org/ns/data-models#columnManufacturerName",
         "columnModelName": "https://uri.fiware.org/ns/data-models#columnModelName",
         "commercial": "https://uri.fiware.org/ns/data-models#commercial",
-        "commercial supply": "https://uri.fiware.org/ns/data-models#commercial supply",
+        "commercial-supply": "https://uri.fiware.org/ns/data-models#commercial-supply",
         "community": "https://uri.fiware.org/ns/data-models#community",
         "compliantWith": "https://uri.fiware.org/ns/data-models#compliantWith",
         "concrete": "https://uri.fiware.org/ns/data-models#concrete",
@@ -898,8 +898,8 @@
         "humidity": "https://uri.fiware.org/ns/data-models#humidity",
         "hurricane": "https://uri.fiware.org/ns/data-models#hurricane",
         "hut": "https://uri.fiware.org/ns/data-models#hut",
-        "hybrid electric/diesel": "https://uri.fiware.org/ns/data-models#hybrid electric/diesel",
-        "hybrid electric/petrol": "https://uri.fiware.org/ns/data-models#hybrid electric/petrol",
+        "hybrid-electric-diesel": "https://uri.fiware.org/ns/data-models#hybrid-electric-diesel",
+        "hybrid-electric-petrol": "https://uri.fiware.org/ns/data-models#hybrid-electric-petrol",
         "hydrogen": "https://uri.fiware.org/ns/data-models#hydrogen",
         "ice": "https://uri.fiware.org/ns/data-models#ice",
         "iceFreeScaffold": "https://uri.fiware.org/ns/data-models#iceFreeScaffold",
@@ -1312,7 +1312,7 @@
         "quarterly": "https://uri.fiware.org/ns/data-models#quarterly",
         "railway": "https://uri.fiware.org/ns/data-models#railway",
         "rainfall": "https://uri.fiware.org/ns/data-models#rainfall",
-        "rainwater capture": "https://uri.fiware.org/ns/data-models#rainwater capture",
+        "rainwater-capture": "https://uri.fiware.org/ns/data-models#rainwater-capture",
         "raising": "https://uri.fiware.org/ns/data-models#raising",
         "ramp": "https://uri.fiware.org/ns/data-models#ramp",
         "reactiveEnergyConsumed": "https://uri.fiware.org/ns/data-models#reactiveEnergyConsumed",
@@ -1603,7 +1603,7 @@
         "smoke": "https://uri.fiware.org/ns/data-models#smoke",
         "snail": "https://uri.fiware.org/ns/data-models#snail",
         "snow": "https://uri.fiware.org/ns/data-models#snow",
-        "snow/ice": "https://uri.fiware.org/ns/data-models#snow/ice",
+        "snow-ice": "https://uri.fiware.org/ns/data-models#snow-ice",
         "snowHeight": "https://uri.fiware.org/ns/data-models#snowHeight",
         "socketNumber": "https://uri.fiware.org/ns/data-models#socketNumber",
         "socketType": {
@@ -1837,7 +1837,7 @@
         "wasteContainerCleaning": "https://uri.fiware.org/ns/data-models#wasteContainerCleaning",
         "wasteDisposal": "https://uri.fiware.org/ns/data-models#wasteDisposal",
         "water": "https://uri.fiware.org/ns/data-models#water",
-        "water dam": "https://uri.fiware.org/ns/data-models#water dam",
+        "water-dam": "https://uri.fiware.org/ns/data-models#water-dam",
         "waterConsumption": "https://uri.fiware.org/ns/data-models#waterConsumption",
         "waterCraftRental": "https://uri.fiware.org/ns/data-models#waterCraftRental",
         "waterPollution": "https://uri.fiware.org/ns/data-models#waterPollution",
@@ -1886,6 +1886,5 @@
         "yearly": "https://uri.fiware.org/ns/data-models#yearly",
         "zen": "https://uri.fiware.org/ns/data-models#zen",
         "zoneCode": "https://uri.fiware.org/ns/data-models#zoneCode"
-    },
-    "generatedAt": "2021-03-30T15:05:49+00:00"
+    }
 }
